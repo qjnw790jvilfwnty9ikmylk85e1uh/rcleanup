@@ -1,0 +1,14 @@
+Package: rcleanup
+Title: R Cleanup
+Version: 0.0.0.9000
+Authors@R: 
+    person("firstname", "lastname", , "qjnw790jvilfwnty9ikmylk85e1uh@gmail.com", role = c("aut", "cre"))
+Description: Clean up data to make it easier to work with.
+License: use_gpl3_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    base,
+    magrittr,
+    dplyr
